@@ -1,0 +1,10 @@
+Git is a Distributed Version Control System, where the users will work on directories individually without affecting the main directory.
+Repository is a place in Git where all the files were submitted and saved.
+commit is used to add the files which are staged.
+working direectory is a place used to modify the data like adding, removing, updating or deletion.
+staging area is a place where all the files are ready to submit.
+branch is a separate folder linked with the main folder where we will add new features without affecting the main folder.
+git add is used to stage the files.
+git commit is used to instert/update the files into the folder without affecting existing data.
+git difference is used to show the changes which are recently added / removed / updated in the file.
+git restore is used to undo the uncommitted changes.
