@@ -1,3 +1,3 @@
-Today I learned Git basics.
+Git is the best Version Control System.Today I learned Git basics.
 Hello
 Learning Git is interesting.
