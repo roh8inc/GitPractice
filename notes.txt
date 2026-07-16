@@ -1,3 +1,4 @@
+Git is a powerful Distributed Version Control System.
 Today I learned Git basics.
 Hello
 Learning Git is interesting.
